@@ -1,0 +1,66 @@
+２．１．２ネットワーク接続端末
+　os(Operating System)
+  Windows　
+     2001年発売 Windows XP
+         16ビットOSであるWindows 9xファミリーと、完全32bビットOSであるWindows
+　　　　　　　　　NTファミリーが統合された。
+　　　　　2007年発売 Windows VIsta
+         Windows Aeroと呼ばれるGUIによって、透過ウィンドウや３Dグラフィックス等の
+　　　　　視覚的効果が大幅に向上された。
+　　　　　2009年発売 Windows 7 
+　　　　　　　　　32ビット版と６４ビット版があり、Home Premium, Professional及びUltimate
+         の各エディションが提供されている。
+     2012年発売 Windows 8
+         上位版Proエディションや、ボリュームライセンス契約者に提供される　
+　　　　　　　　　Enterpriseエディション、モバイル端末に用いられることの多いARMアーキテクチャに対応
+　　　　　　　　　Windows　RTが用意されている。
+　　　　　2013年　8.1に変更
+　　　　　2015年 Windows 10
+  OS X
+  　　　2010年　OS X Lion
+       Mission Controlと呼ばれるフルスクリーン表示、アプリケーションランチャLaunchpad
+     2012年　OS X Mountain Lion
+       統合されたメッセージングサービスiMesseage追加
+　　　　　2013年　OS　X　Mavericks
+       無償での提供iBooksやマップ実装
+　　　　　2014年　OS　X　Yosemite
+　　　　　　　　Macからios経由して電話がかけられるようになる。iosとの連携を強化
+　　　　　2015年　OS　X　EI　Capitan
+　　　　ウィンドウを簡単に左右２分割表示可能にした
+  　iOS
+　　　　　Unix系のOSであるDarwinをベースにしてApple社が開発、販売しているiPhoneやiPad等のモバイル端末に搭載されているOSである。
+ 　 Android
+　　　　　Google社が提供するオープンソースOS
+　　　　　Android用のアプリは、Google社が運営するGoogle Playを通じて入手可能
+　　　　　Android　１．Xと２．Xはスマートフォン向け、３．Xはタブレット向けに設計されている。
+目的別端末
+　　NAS（Network Attack Storage)
+　　　　ネットワーク経由でファイルを入出力できるファイルサーバ専用機。
+　　　　　　　　LAN内でのファイル共有を簡単な設定で実現。
+　　　　　　　RAID
+　　　　　　　　　HDD内に登録されているデータの信頼性向上のために、複数のHDDを組み合わせて１台の仮想的なドライブを作り出す
+　　ゲーム機
+　　ネット家電
+　　ウェアラブルデバイス（スマートウォッチ）等
+　　　　リストバンド型
+　　　　腕時計型
+　　　　メガネ型
+　　　　その他
+　　ネットワークカメラ
+２．１．３．機器の接続規格
+　Bluetooth
+　　　数メートルから、数十メートル程度の近距離にある機器間接続に用いられる無線通信技術であり、無線PAN等で利用されている。周波数は２．４GHz帯である。
+　
+　USB（Universal Serial Bus)
+　　　　　　１９９６年公開されたシリアル規格である。ユーザが簡単に機器を扱えるのが特長。
+　　　　　　２０００年に公開されたUSB２．０では、最高転送速度が４８０Mbpsと大幅に高速化した。
+　　　　　　２００８年に公開されたUSB３．０では、最高転送速度が５Gbpsまでなった。　　　　　
+　　　　　　モバイル機器ではUSBを他の機器との接続だけでなく、電源コネクタとして用いるものも多い
+　Thunderbolt
+　　　　　２０１１年に仕様が発行されたシリアルバス規格の１つで、Intel社とApple社により開発された。
+　　　　　２０１３年にThunderbolt2が公開され１０Gbpsだった転送速度は２０Gbpsに高速化した。更に最大１０ｗの給電能力を持っている。
+　　　　　２０１５年にはThunderbolt3の仕様が策定され、転送速度は４０Gbps,給電能力は１００ｗになった。
+
+　　　　
+
+
